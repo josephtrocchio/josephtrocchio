@@ -1,4 +1,4 @@
-### Hello!!
+# Hello!!
 My name is Joseoh Trocchio and I'm currently the HEAD of Academy Performance for the Philadlephia Union
 
 ## My Mission
@@ -11,6 +11,8 @@ My goal is to optimize performance, mitigate injury, and hold the ability to rec
 
 ## Technologies I'm passionate about
 - Python :snake:
+- Linux (Mint) :computer:
 - Django :newspaper:
 - Django REST Framework :boom:
 - Docker :whale:
+- Pandas :panda_face:
