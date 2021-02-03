@@ -5,7 +5,7 @@ My name is Joseoh Trocchio and I'm currently the HEAD of Academy Performance for
 - Optimize human performance
 - Mitigate Injury
 - Hold the ability to recondition athletes back to athletic normal
-- Integrate computing machine to autoamte and ease workflow
+- Integrate computing machines to autoamte and ease workflow
 
 ## My focus on github
 - Continue to learn 21st century skill sets
