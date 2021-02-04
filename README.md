@@ -1,5 +1,5 @@
 # Hello!!
-My name is Joseoh Trocchio and I'm currently the HEAD of Academy Performance for the Philadlephia Union
+My name is Joseph Trocchio and I'm currently the HEAD of Academy Performance for the Philadlephia Union
 
 ## My Mission
 - Optimize human performance
